@@ -1,0 +1,32 @@
+[
+    {
+        "content":"在线支付满28减15",
+        "icon":"http://localhost:8080/decrease_3@2x.png"
+    },
+    {
+        "content":"单人精彩赛",
+        "icon":"http://localhost:8080/discount_3@2x.png"
+    },
+    {
+        "content":"清肺雪梨汤8折抢购",
+        "icon":"http://localhost:8080/discount_3@2x.png"
+    },
+    {
+        "content":"特价饮品8折抢购",
+        "icon":"http://localhost:8080/special_3@2x.png"
+    },
+    {
+        "content":"单人特色汤",
+        "icon":"http://localhost:8080/special_3@2x.png"
+    },
+    {
+        "content":"支持发票",
+        "icon":"http://localhost:8080/invoice_1@2x.png"
+    },
+    {
+        "content":"已加入食品安全保障",
+        "icon":"http://localhost:8080/guarantee_1@2x.png"
+    }
+
+
+]
